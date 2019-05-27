@@ -15,6 +15,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NombreMes", "NombreMes\Nomb
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Venta2.0", "Venta2.0\Venta2.0.vbproj", "{C533B9C0-B8D9-406A-BCB4-114EA34EBE48}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Angulo", "Angulo\Angulo.vbproj", "{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C533B9C0-B8D9-406A-BCB4-114EA34EBE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C533B9C0-B8D9-406A-BCB4-114EA34EBE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C533B9C0-B8D9-406A-BCB4-114EA34EBE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
