@@ -11,11 +11,13 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Tercero", "Tercero\Tercero.
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Ventas", "Ventas\Ventas.vbproj", "{00F20226-20BD-4E56-873A-A905393E899A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NombreMes", "NombreMes\NombreMes.vbproj", "{6FA77EB5-78A0-4EA8-A207-0D60B76E52E8}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "NombreMes", "NombreMes\NombreMes.vbproj", "{6FA77EB5-78A0-4EA8-A207-0D60B76E52E8}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Venta2.0", "Venta2.0\Venta2.0.vbproj", "{C533B9C0-B8D9-406A-BCB4-114EA34EBE48}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Venta2.0", "Venta2.0\Venta2.0.vbproj", "{C533B9C0-B8D9-406A-BCB4-114EA34EBE48}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Angulo", "Angulo\Angulo.vbproj", "{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Angulo", "Angulo\Angulo.vbproj", "{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DiasMes", "DiasMes\DiasMes.vbproj", "{C20D6B86-E084-4539-9274-772791B42318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F3FB53-281D-44D9-A62E-0D7E7B5CD180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20D6B86-E084-4539-9274-772791B42318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20D6B86-E084-4539-9274-772791B42318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20D6B86-E084-4539-9274-772791B42318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20D6B86-E084-4539-9274-772791B42318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

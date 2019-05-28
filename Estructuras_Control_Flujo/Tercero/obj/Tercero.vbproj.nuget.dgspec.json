@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj",
         "projectName": "Tercero",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\Tercero.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Tercero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
