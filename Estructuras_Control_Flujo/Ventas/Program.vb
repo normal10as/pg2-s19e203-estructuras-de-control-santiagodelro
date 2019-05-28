@@ -30,7 +30,7 @@ Module Venta
             Console.WriteLine("Descuento 20%: $" & descuento)
             Console.WriteLine("Total: $" & total)
         End If
-        descuento = subtotal * 0.2
+
         If cant < 10 Then
             total = subtotal - descuento
             Console.WriteLine("Subtotal: $" & subtotal)
