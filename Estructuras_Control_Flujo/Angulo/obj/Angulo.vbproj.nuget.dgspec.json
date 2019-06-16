@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj": {
+    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj",
         "projectName": "Angulo",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\Angulo.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Angulo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

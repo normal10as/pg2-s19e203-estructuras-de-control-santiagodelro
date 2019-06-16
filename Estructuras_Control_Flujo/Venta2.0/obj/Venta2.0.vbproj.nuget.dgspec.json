@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj": {
+    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj",
         "projectName": "Venta2.0",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\Venta2.0.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\Venta2.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

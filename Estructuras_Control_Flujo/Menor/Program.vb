@@ -11,13 +11,12 @@ Module Menor
         c = Console.ReadLine
         If a < b And a < c Then
             menor = a
-        End If
-        If b < a And b < c Then
+        ElseIf b < c Then
             menor = b
-        End If
-        If c < b And c < a Then
+        Else
             menor = c
         End If
+
         Console.WriteLine("El numero menor es: " & menor)
     End Sub
 End Module

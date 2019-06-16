@@ -2,44 +2,33 @@ Imports System
 
 Module Venta
     Sub Main(args As String())
-        Dim cant, precio, descuento, subtotal, total As Integer
+        Dim cant, precio, descuento, subtotal, montodescuento As Integer
         Console.Write("Ingrese la cantidad: ")
         cant = Console.ReadLine
         Console.Write("Ingrese el precio Unitario: ")
         precio = Console.ReadLine
         subtotal = precio * cant
 
-        If cant > 10 And cant < 50 Then
-            descuento = subtotal * 0.05
-            total = subtotal - descuento
-            Console.WriteLine("Subtotal: $" & subtotal)
-            Console.WriteLine("Descuento 5%: $" & descuento)
-            Console.WriteLine("Total: $" & total)
-        End If
-        If cant > 51 And cant < 250 Then
-            descuento = subtotal * 0.1
-            total = subtotal - descuento
-            Console.WriteLine("Subtotal: $" & subtotal)
-            Console.WriteLine("Descuento 10%: $" & descuento)
-            Console.WriteLine("Total: $" & total)
-        End If
-        If cant > 251 Then
-            descuento = subtotal * 0.2
-            total = subtotal - descuento
-            Console.WriteLine("Subtotal: $" & subtotal)
-            Console.WriteLine("Descuento 20%: $" & descuento)
-            Console.WriteLine("Total: $" & total)
-        End If
+        descuento = ObtenerDescuento(cant)
 
-        If cant < 10 Then
-            total = subtotal - descuento
-            Console.WriteLine("Subtotal: $" & subtotal)
-            Console.WriteLine("Descuento 0%: $" & descuento)
-            Console.WriteLine("Total: $" & total)
-        End If
-
+        montodescuento = subtotal * descuento / 100
+        Console.WriteLine("Subtotal: $" & subtotal)
+        Console.WriteLine("Descuento {0}%: $" & montodescuento, descuento)
+        Console.WriteLine("Total: $" & subtotal - montodescuento)
 
     End Sub
+    Private Function ObtenerDescuento(cant As Integer) As Integer
+        If cant < 10 Then
+            Return 0
+        ElseIf cant < 50 Then
+            Return 5
+        ElseIf cant < 250 Then
+            Return 10
+        Else
+            Return 20
+        End If
+
+    End Function
 End Module
 'Crear un proyecto y un módulo “Venta” para resolver con If: ingresar dos valores
 'relacionados a un producto en venta: cantidad y precio unitario. Si la cantidad es entre a 10 y

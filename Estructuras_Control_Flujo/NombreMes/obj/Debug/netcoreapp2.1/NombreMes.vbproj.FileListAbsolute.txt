@@ -8,3 +8,4 @@ C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-sant
 C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.AssemblyInfo.vb
 C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.dll
 C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.vbprojAssemblyReference.cache

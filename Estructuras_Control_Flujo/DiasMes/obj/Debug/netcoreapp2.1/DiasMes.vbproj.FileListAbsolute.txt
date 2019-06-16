@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.vbprojAssemblyReference.cache

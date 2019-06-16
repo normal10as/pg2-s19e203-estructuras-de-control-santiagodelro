@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj": {
+    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj",
         "projectName": "DiasMes",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\DiasMes.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-santiagodelro\\Estructuras_Control_Flujo\\DiasMes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
