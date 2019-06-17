@@ -29,8 +29,6 @@ Module ParesImpares
             Console.WriteLine("Pares: " & par)
             Console.WriteLine("Impares: " & impar)
         End If
-
-
     End Sub
 End Module
 'Crear un proyecto y un módulo “ParesImpares” Utilizando la estructura de repetición
