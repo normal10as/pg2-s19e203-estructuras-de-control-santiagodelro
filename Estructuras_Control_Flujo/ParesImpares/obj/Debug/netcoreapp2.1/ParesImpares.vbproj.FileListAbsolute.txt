@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.pdb

@@ -19,7 +19,9 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Angulo", "Angulo\Angulo.vbp
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "DiasMes", "DiasMes\DiasMes.vbproj", "{C20D6B86-E084-4539-9274-772791B42318}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConversionMedidas", "ConversionMedidas\ConversionMedidas.vbproj", "{08515F16-12AF-4D4E-8D15-C6364CB0F01B}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ConversionMedidas", "ConversionMedidas\ConversionMedidas.vbproj", "{08515F16-12AF-4D4E-8D15-C6364CB0F01B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ParesImpares", "ParesImpares\ParesImpares.vbproj", "{35E7622E-9B6E-488D-9EA6-5E1A01CB52ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{08515F16-12AF-4D4E-8D15-C6364CB0F01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08515F16-12AF-4D4E-8D15-C6364CB0F01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08515F16-12AF-4D4E-8D15-C6364CB0F01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E7622E-9B6E-488D-9EA6-5E1A01CB52ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E7622E-9B6E-488D-9EA6-5E1A01CB52ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E7622E-9B6E-488D-9EA6-5E1A01CB52ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E7622E-9B6E-488D-9EA6-5E1A01CB52ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
