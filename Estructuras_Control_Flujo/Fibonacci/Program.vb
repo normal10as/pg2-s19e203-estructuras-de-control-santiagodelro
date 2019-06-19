@@ -2,6 +2,9 @@ Imports System
 
 Module Fibonacci
     Sub Main(args As String())
+        Fibonacci()
+    End Sub
+    Sub Fibonacci()
         Dim fibonacci, valoranterior, valornuevo As Integer
         valoranterior = 0
         valornuevo = 1
