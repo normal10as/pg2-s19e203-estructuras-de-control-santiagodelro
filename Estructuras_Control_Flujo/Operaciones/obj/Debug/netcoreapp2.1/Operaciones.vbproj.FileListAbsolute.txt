@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.pdb
