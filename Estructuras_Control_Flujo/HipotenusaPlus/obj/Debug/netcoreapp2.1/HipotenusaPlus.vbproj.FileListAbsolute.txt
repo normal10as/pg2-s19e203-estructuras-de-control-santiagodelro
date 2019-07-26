@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\obj\Debug\netcoreapp2.1\HipotenusaPlus.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\obj\Debug\netcoreapp2.1\HipotenusaPlus.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\obj\Debug\netcoreapp2.1\HipotenusaPlus.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\obj\Debug\netcoreapp2.1\HipotenusaPlus.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\bin\Debug\netcoreapp2.1\HipotenusaPlus.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\bin\Debug\netcoreapp2.1\HipotenusaPlus.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\bin\Debug\netcoreapp2.1\HipotenusaPlus.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\bin\Debug\netcoreapp2.1\HipotenusaPlus.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\bin\Debug\netcoreapp2.1\HipotenusaPlus.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\obj\Debug\netcoreapp2.1\HipotenusaPlus.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e203-estructuras-de-control-santiagodelro\Estructuras_Control_Flujo\HipotenusaPlus\obj\Debug\netcoreapp2.1\HipotenusaPlus.pdb
