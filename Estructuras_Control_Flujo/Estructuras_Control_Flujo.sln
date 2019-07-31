@@ -35,6 +35,8 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "HipotenusaPlus", "Hipotenus
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VolumenCilindro2.0", "VolumenCilindro2.0\VolumenCilindro2.0.vbproj", "{CFDEE740-D435-49E1-81D7-D73C3BB1DE80}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Algoritmo", "Algoritmo\Algoritmo.vbproj", "{F1A899EA-52BD-4F6C-AB10-4A701FE5D43A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{CFDEE740-D435-49E1-81D7-D73C3BB1DE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFDEE740-D435-49E1-81D7-D73C3BB1DE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFDEE740-D435-49E1-81D7-D73C3BB1DE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A899EA-52BD-4F6C-AB10-4A701FE5D43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A899EA-52BD-4F6C-AB10-4A701FE5D43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A899EA-52BD-4F6C-AB10-4A701FE5D43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A899EA-52BD-4F6C-AB10-4A701FE5D43A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
